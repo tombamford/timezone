@@ -1,73 +1,73 @@
 [
     {
         "name": "Robb",
-        "avatar": "http://www.gravatar.com/avatar/ac0f1651eec89bb8264bd192bfc037fd",
+        "avatar": "https://www.gravatar.com/avatar/ac0f1651eec89bb8264bd192bfc037fd",
         "city": "Prescott, AZ",
         "tz": "America/Phoenix"
     },
     {
         "name": "Giles",
-        "avatar": "http://avatars.githubusercontent.com/u/974",
+        "avatar": "https://avatars.githubusercontent.com/u/974",
         "city": "Prescott, AZ",
         "tz": "America/Phoenix"
     },
     {
         "name": "Dan",
-        "avatar": "http://www.gravatar.com/avatar/5df14ccded6f18451c76988dae6bafdd",
+        "avatar": "https://www.gravatar.com/avatar/5df14ccded6f18451c76988dae6bafdd",
         "city": "Los Angeles",
         "tz": "America/Los_Angeles"
     },
     {
         "name": "Lance",
-        "avatar": "http://www.gravatar.com/avatar/9007eb0a7d78b4a0209ec2f6ee9d3dc8",
+        "avatar": "https://www.gravatar.com/avatar/9007eb0a7d78b4a0209ec2f6ee9d3dc8",
         "city": "Los Angeles",
         "tz": "America/Los_Angeles"
     },
     {
         "name": "David",
-        "avatar": "http://avatars.githubusercontent.com/u/6767448",
+        "avatar": "https://avatars.githubusercontent.com/u/6767448",
         "city": "Los Angeles",
         "tz": "America/Los_Angeles"
     },
     {
         "name": "Peter",
-        "avatar": "http://www.gravatar.com/avatar/65659846c57248ba51f0feed78f7ae58",
+        "avatar": "https://www.gravatar.com/avatar/65659846c57248ba51f0feed78f7ae58",
         "city": "Los Angeles",
         "tz": "America/Los_Angeles"
     },
     {
         "name": "Christoph",
-        "avatar": "http://www.gravatar.com/avatar/811d61a875dcc509c6a5e841f5305b16",
+        "avatar": "https://www.gravatar.com/avatar/811d61a875dcc509c6a5e841f5305b16",
         "city": "Los Angeles",
         "tz": "America/Los_Angeles"
     },
     {
         "name": "Max",
-        "avatar": "http://avatars.githubusercontent.com/u/454312",
+        "avatar": "https://avatars.githubusercontent.com/u/454312",
         "city": "Los Angeles",
         "tz": "America/Los_Angeles"
     },
     {
         "name": "Matthew",
-        "avatar": "http://avatars.githubusercontent.com/u/105",
+        "avatar": "https://avatars.githubusercontent.com/u/105",
         "city": "Bastrop, TX",
         "tz": "America/Chicago"
     },
     {
         "name": "Mike",
-        "avatar": "http://avatars.githubusercontent.com/u/6136",
+        "avatar": "https://avatars.githubusercontent.com/u/6136",
         "city": "Florida",
         "tz": "America/New_York"
     },
     {
         "name": "Mahesh",
-        "avatar": "http://avatars.githubusercontent.com/u/4356430",
+        "avatar": "https://avatars.githubusercontent.com/u/4356430",
         "city": "Hyderabad, India",
         "tz": "Asia/Kolkata"
     },
     {
         "name": "Pradeep",
-        "avatar": "http://avatars.githubusercontent.com/u/5126396",
+        "avatar": "https://avatars.githubusercontent.com/u/5126396",
         "city": "Hyderabad, India",
         "tz": "Asia/Kolkata"
     },
@@ -79,7 +79,7 @@
     },
     {
         "name": "Tom",
-        "avatar": "http://avatars.githubusercontent.com/u/251987",
+        "avatar": "https://avatars.githubusercontent.com/u/251987",
         "city": "Cape Town",
         "tz": "Africa/Johannesburg"
     },
