@@ -84,6 +84,12 @@
         "tz": "Africa/Johannesburg"
     },
     {
+        "name": "Tomas",
+        "avatar": "https://avatars.githubusercontent.com/u/766808",
+        "city": "Buenos Aires",
+        "tz": "America/Argentina/Buenos Aires"
+    },
+    {
         "name": "Joseph",
         "avatar": "https://pbs.twimg.com/profile_images/448174966370881537/1aeVHqv5.jpeg",
         "city": "Honolulu",
