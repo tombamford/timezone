@@ -30,12 +30,6 @@
         "tz": "America/Los_Angeles"
     },
     {
-        "name": "Peter",
-        "avatar": "https://www.gravatar.com/avatar/65659846c57248ba51f0feed78f7ae58",
-        "city": "Los Angeles",
-        "tz": "America/Los_Angeles"
-    },
-    {
         "name": "Max",
         "avatar": "https://avatars.githubusercontent.com/u/454312",
         "city": "Los Angeles",
@@ -66,8 +60,14 @@
         "tz": "Asia/Kolkata"
     },
     {
-        "name": "Vijay",
-        "avatar": "",
+        "name": "Kiran",
+        "avatar": "https://avatars.githubusercontent.com/u/1924534",
+        "city": "Hyderabad, India",
+        "tz": "Asia/Kolkata"
+    },
+    {
+        "name": "Surya",
+        "avatar": "https://avatars.githubusercontent.com/u/6537229",
         "city": "Hyderabad, India",
         "tz": "Asia/Kolkata"
     },
